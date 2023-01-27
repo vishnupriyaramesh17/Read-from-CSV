@@ -30,7 +30,7 @@ print('Col:',len(f.axes[1]))
 ```
 
 ## OUTPUT:
-![](cssv.png)
+![](csvvv.png)
 
 ## RESULT:
 Thus the program is written to read a file from csv using python programming.
